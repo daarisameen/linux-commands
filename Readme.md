@@ -24,6 +24,8 @@ Order of solving:
 ## CONTRIBUTE
 Yes I gladly accept your contribution, don't ask me how to contribute (God Knows The Best).
 
+From where to start contributing, look at issues tab: [contribute here](https://github.com/daarisameen/linux-commands/issues)
+
 Buy me, just a cup of [coffee](http://upiqr.in/api/qr/?name=Daaris%20Ameen&vpa=b.zubaida@paytm)
 
 
