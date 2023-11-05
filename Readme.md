@@ -28,4 +28,4 @@ Buy me, just a cup of [coffee](http://upiqr.in/api/qr/?name=Daaris%20Ameen&vpa=b
 
 
 
-<img title="buy me a cup of coffee" alt="buy me a cup of coffee" src="buy_me_coffee.png">
+<img title="buy me a cup of coffee" alt="buy me a cup of coffee" src="buy_me_coffee.png" width="400" height="400" class="center">
